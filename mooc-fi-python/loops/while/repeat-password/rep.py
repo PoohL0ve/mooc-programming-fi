@@ -2,10 +2,10 @@
 
 while True :
     password = input('Please enter a password: ')
-    password_repeat = input('Please repeate the password: ')
+    password_repeat = input('Please repeat the password: ')
 
-    if password != password_repeat :
+    if password_repeat != password :
         print('Password do not match')
-    if password == password_repeat :
+    if password_repeat == password :
         break
 print('user account created')
