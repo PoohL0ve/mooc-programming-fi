@@ -15,4 +15,4 @@ if attempts == 1 :
     print('PIN: ',pin, 'Great! You Got it on one try')
 
 # indentation is highly important
-# remember where to place each line of code as whole loops can lose control
+# remember where to place each line of code as while loops can lose control
