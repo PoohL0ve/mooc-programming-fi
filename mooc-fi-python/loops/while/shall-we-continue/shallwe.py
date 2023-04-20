@@ -1,4 +1,4 @@
-# if not is inputted by the user, end the program
+# if 'no' is inputted by the user, end the program
 
 while True :
     greeting = print('hi')
