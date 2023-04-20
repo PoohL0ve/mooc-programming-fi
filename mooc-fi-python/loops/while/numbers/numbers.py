@@ -1,7 +1,11 @@
-# out the numbers that are less than the value input
+# print integers more than zero but less than the input
 
 number = int(input('Enter a number: '))
+limit = 1
 
-while number > 2 and number < 32:
-    print(number)
-    number += 1
+print('Upper Limit: ', number)
+
+while limit > 0 and limit < number :
+    print(limit)
+    limit += 1
+print('Done')
