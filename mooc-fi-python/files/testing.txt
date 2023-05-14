@@ -1,0 +1,4 @@
+This text file is for practicing purposes.
+Did you know with Python, you can read, create, write and update files? 
+Interesting I did not know that.
+I guess you learn something new all the time.
